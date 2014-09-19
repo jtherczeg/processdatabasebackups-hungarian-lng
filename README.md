@@ -3,6 +3,7 @@ Database Backups Module for ProcessWire
 Hungarian Translation File
 ==========================
 
+
 Hungarian (hu-HU) translation file for ProcessWire **Database Backups** module in formal writing style.
 
 
@@ -28,7 +29,7 @@ How to Upgrade an Existing Translation File
 
 Translation File Support
 ------------------------
-- **Report** an issue, even a typo, you found at [GitHub](https://github.com/jtherczeg/processdatabasecackups-hungarian-lng/issues)
+- **Report** an issue, even a typo, you found at [GitHub](https://github.com/jtherczeg/processdatabasebackups-hungarian-lng/issues)
 
 About Database Backups module Briefly
 -------------------------------------
