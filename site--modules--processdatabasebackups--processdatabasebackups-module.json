@@ -1,0 +1,153 @@
+{
+    "file": "site\\modules\\ProcessDatabaseBackups\\ProcessDatabaseBackups.module",
+    "textdomain": "site--modules--processdatabasebackups--processdatabasebackups-module",
+    "translations": {
+        "801ab24683a4a8c433c6eb40c48bcd9d": {
+            "text": "Let\u00f6lt\u00e9s"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "T\u00f6rl\u00e9s"
+        },
+        "91412465ea9169dfd901dd5e7c96dd99": {
+            "text": "Felt\u00f6lt\u00e9s"
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Le\u00edr\u00e1s"
+        },
+        "2bd339d85ee3b33e513359ce781b60cc": {
+            "text": "Vissza\u00e1ll\u00edt\u00e1s"
+        },
+        "9a499769a8bf4e3465e86d413d1dd2cf": {
+            "text": "\u00c9rv\u00e9nyes?"
+        },
+        "7ac5a1ab23d01d181148ba8cc6c45313": {
+            "text": "D\u00e1tum\/Id\u0151"
+        },
+        "1908624a0bca678cd26b99bfd405324e": {
+            "text": "F\u00e1jlm\u00e9ret"
+        },
+        "1351017ac6423911223bc19a8cb7c653": {
+            "text": "F\u00e1jln\u00e9v"
+        },
+        "9e362f7bde93fb1a52dea86534d5be9c": {
+            "text": "Adatb\u00e1zisn\u00e9v"
+        },
+        "d3a6a364cc77b2ad5e5a0341d67cb7bf": {
+            "text": "Melyik t\u00e1bl\u00e1k?"
+        },
+        "58a9aa0bacfa14fd6ba14e4ea879f50d": {
+            "text": "Export\u00e1lt t\u00e1bl\u00e1k sz\u00e1ma"
+        },
+        "99e78b70b99166877be7fc0bc030a298": {
+            "text": "L\u00e9trehozott t\u00e1bl\u00e1k sz\u00e1ma"
+        },
+        "f83a1c509f5d7110fe86a66fe3106628": {
+            "text": "Sorok sz\u00e1ma"
+        },
+        "3706fa5bd017ca3a6cea9c54a0468e0e": {
+            "text": "(mind)"
+        },
+        "89cece2857574232ebfbe78574438d12": {
+            "text": "\u00daj biztons\u00e1gi m\u00e1solat"
+        },
+        "fbb7d71920afdff488c3514f3f99fe7c": {
+            "text": "F\u00e1jl felt\u00f6lt\u00e9se"
+        },
+        "fb062769d9d546b0e921d27f871671b1": {
+            "text": "A biztons\u00e1gi m\u00e1solat neve"
+        },
+        "651ae5789ab776f2fcaf80b5e62801dc": {
+            "text": "T\u00e1bl\u00e1k"
+        },
+        "6d58564d489462dbc55a393525a94a47": {
+            "text": "Biztons\u00e1gi m\u00e1solat t\u00f6rl\u00e9se"
+        },
+        "441502a7afbbb1570b29776d9b084ff2": {
+            "text": "T\u00f6r\u00f6lve: %s"
+        },
+        "6b57c8193bf71b9818408e839220a139": {
+            "text": "Biztons\u00e1gi m\u00e1solat vissza\u00e1ll\u00edt\u00e1sa"
+        },
+        "f935880e3facb160972644a5a56fa8d7": {
+            "text": "Vissza\u00e1ll\u00edtva: %s"
+        },
+        "e79a773fb3ec258f5e6836d32749741d": {
+            "text": "f\u00e1jl"
+        },
+        "863af8277936afdcc6ec79608427cf85": {
+            "text": "le\u00edr\u00e1s"
+        },
+        "4d9c2715f4a85ce6959ad43c6e629e85": {
+            "text": "d\u00e1tum"
+        },
+        "82ea206d526e605606ea77ce1d143404": {
+            "text": "b\u00e1jt"
+        },
+        "1d04dd15b4d38e5c186f76e4a9e3a0fd": {
+            "text": "b\u00e1jt"
+        },
+        "5dd3d5c5d90f9b92ea0b0e22a13e7d9a": {
+            "text": "Export\u00e1lta"
+        },
+        "6480751f1ea2865ea9df52e8a7916e12": {
+            "text": "Export\u00e1l\u00e1s id\u0151tartama (m\u00e1sodpercek)"
+        },
+        "8f4ef12b8b8119d55d08be94dc9bbe8d": {
+            "text": "M\u00e9g nem k\u00e9sz\u00fclt biztons\u00e1gi m\u00e1solat az adatb\u00e1zisr\u00f3l"
+        },
+        "0aaa747daa32a792ecf65577bf37dd43": {
+            "text": "\u00daj SQL-adatb\u00e1zis exportf\u00e1jl hozz\u00e1ad\u00e1sa"
+        },
+        "2f047a0f2fbd64fdd87b54370f1b8f06": {
+            "text": "Igen! Meger\u0151s\u00edtem, hogy a f\u00e1jl eleje \u00e9s v\u00e9ge \u00e9rv\u00e9nyes."
+        },
+        "a562f670e8483396327ea2eaf7768b01": {
+            "text": "Minden t\u00e1bla"
+        },
+        "3a34f1bda9876b2d5bee6150ce70bd24": {
+            "text": "Nem tudom meger\u0151s\u00edteni, hogy \u00e9rv\u00e9nyes a f\u00e1jl (val\u00f3sz\u00edn\u0171leg nem ezzel az eszk\u00f6zzel k\u00e9sz\u00fclt)"
+        },
+        "aebf39804f9495bc22aee9a057a22419": {
+            "text": "Az \u00faj biztons\u00e1gi m\u00e1solat mentve:"
+        },
+        "706b70879cc878605e68e1e65a32f154": {
+            "text": "Ezt fogja haszn\u00e1lni a rendszer a biztons\u00e1gi m\u00e1solat f\u00e1jlnevek\u00e9nt. Az .sql kiterjeszt\u00e9st automatikusan fogja hozz\u00e1adni."
+        },
+        "a64ad0665d14f4c8c2ab925a42ef4b24": {
+            "text": "Ha \u00fcresen hagyja, akkor a rendszer automatikusan gener\u00e1l egy egyedi f\u00e1jlnevet."
+        },
+        "ed701e02309d8c934abad7f824c7c16d": {
+            "text": "A biztons\u00e1gi m\u00e1solat tetsz\u0151leges le\u00edr\u00e1sa"
+        },
+        "6e89678f831ff5f7f7b8e43a5be8bdb6": {
+            "text": "Biztons\u00e1gi m\u00e1solat k\u00e9sz\u00edt\u00e9se az \u00f6sszes t\u00e1bl\u00e1r\u00f3l?"
+        },
+        "af8f0581ed32d346ead494ab8eec1bbb": {
+            "text": "Alap\u00e9rtelmez\u00e9sk\u00e9nt az export\u00e1l\u00e1s az \u00f6sszes t\u00e1bl\u00e1t fogja tartalmazni. Ha csak bizonyos t\u00e1bl\u00e1kat akar belevenni, akkor jel\u00f6lje ki \u0151ket az al\u00e1bbi mez\u0151ben."
+        },
+        "0fce2bb9b8a71ba5b9861f756f135dc2": {
+            "text": "Az Ind\u00edt\u00e1s gomb megnyom\u00e1sa ut\u00e1n legyen t\u00fcrelemmel. A biztons\u00e1g m\u00e1solatok elk\u00e9sz\u00edt\u00e9se az adatok mennyis\u00e9g\u00e9t\u0151l f\u00fcgg\u0151en eltarthat egy ideig."
+        },
+        "0d17be96c4c0a8f101dcaa0ce9c5ee7d": {
+            "text": "T\u00f6rli a(z) %s biztons\u00e1gi m\u00e1solatot?"
+        },
+        "3cb4e6b4606e9ce037d8e0b857f8997f": {
+            "text": "Jel\u00f6lje be a jel\u00f6l\u0151n\u00e9gyzetet a meger\u0151s\u00edt\u00e9shez"
+        },
+        "231701cb14ac09a9cc996fecdd29307f": {
+            "text": "Hiba a(z) %s biztons\u00e1gi m\u00e1solat vissza\u00e1ll\u00edt\u00e1sakor"
+        },
+        "c92f05a9eb8a3beefa9703798389e19f": {
+            "text": "Figyelmeztet\u00e9s: A rendszer meg fogja semmis\u00edteni \u00e9s le fogja cser\u00e9lni a jelenlegi adatb\u00e1zist (fenn\u00e1ll a lehet\u0151s\u00e9ge annak, hogy megszakad a webhely m\u0171k\u00f6d\u00e9se!)"
+        },
+        "961d8e90248909f65e858c1348174f15": {
+            "text": "A(z) %s biztons\u00e1gi m\u00e1solat vissza\u00e1ll\u00edt\u00e1sa?"
+        },
+        "43b509f8081215dcba8690edfe40e9c7": {
+            "text": "t\u00e1bl\u00e1k"
+        },
+        "96494709dc2928a71d500971b842c2fc": {
+            "text": "sorok"
+        }
+    }
+}
